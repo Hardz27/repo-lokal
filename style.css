@@ -1,0 +1,23 @@
+body {
+	background-color: #a958a5;
+}
+
+h1 {
+	text-align: center;
+	color: #ffffff;
+	font-family: Algerian;
+}
+
+h3 {
+	text-align: center;
+	color: #ffffff;
+}
+
+p {
+	text-align: center;
+	color: #ffffff;
+}
+
+ol, li, h4 {
+	color: #ffffff;
+}
